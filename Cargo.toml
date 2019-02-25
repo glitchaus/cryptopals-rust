@@ -1,6 +1,8 @@
 [package]
 name = "cryptopals-rust"
 version = "0.1.0"
-authors = ["greyspectrum <alsmith@g.harvard.edu>"]
+authors = ["greyspectrum <austin_smith@harvard.edu>"]
 
 [dependencies]
+
+serde = "1.0"
